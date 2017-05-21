@@ -1,0 +1,5 @@
+.DS_Store
+/.idea
+/vendors
+/node_modules
+**/php/mail-config.php
